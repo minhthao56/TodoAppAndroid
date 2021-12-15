@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <EditText
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:background="@drawable/style_input"
+        android:paddingLeft="14dp"
+        android:hint="Email"
+        android:textSize="16sp"
+        android:fontFamily="@font/montserrat"
+      />
