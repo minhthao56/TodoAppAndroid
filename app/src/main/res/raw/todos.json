@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Design Logo",
+    "description": "Make logo for the mini project",
+    "createAt": "Created at 1 Sept 2021",
+    "isFinish": true
+  },
+  {
+    "title": "Make UI Design",
+    "description": "Make Ui design for the mini project\npost figma link to the trello using  ...",
+    "createAt": "Created at 1 Sept 2021",
+    "isFinish": false
+  },
+  {
+    "title": "Learn React Native",
+    "description": "Make sure to learn before deadline!",
+    "createAt": "Created at 2 Sept 2021",
+    "isFinish": false
+  },
+  {
+    "title": "Learn Android",
+    "description": "Make sure to learn before deadline!",
+    "createAt": "Created at 2 Sept 2021",
+    "isFinish": true
+  },
+  {
+    "title": "Learn IOS",
+    "description": "Make sure to learn before deadline!",
+    "createAt": "Created at 2 Sept 2021",
+    "isFinish": false
+  },
+  {
+    "title": "Learn Flutter",
+    "description": "Make sure to learn before deadline!",
+    "createAt": "Created at 2 Sept 2021",
+    "isFinish": false
+  },
+  {
+    "title": "Learn Golang",
+    "description": "Make sure to learn before deadline!",
+    "createAt": "Created at 2 Sept 2021",
+    "isFinish": true
+  }
+]

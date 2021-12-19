@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="120dp"
+    android:background="@drawable/style_todo_card"
+    android:layout_marginBottom="16dp"
+    android:paddingVertical="8dp"
+    android:paddingHorizontal="16dp"
+    android:id="@+id/containerCard"
+    >
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    >
+    <TextView
+        android:id="@+id/textTitleCard"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Item"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:fontFamily="@font/montserrat"
+        android:textColor="@color/white"
+        android:layout_weight="1"
+        />
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/ic_clock"
+        android:id="@+id/clockCard"
+        />
+</LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Make logo for the mini project"
+        android:textColor="@color/white"
+        android:fontFamily="@font/montserrat"
+        android:textSize="14sp"
+        android:layout_weight="1"
+        android:id="@+id/textDescription"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Created at 1 Sept 2021"
+        android:textColor="@color/white"
+        android:fontFamily="@font/montserrat"
+        android:textSize="11sp"
+        android:id="@+id/textCreateAt"
+        />
+</LinearLayout>
